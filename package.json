@@ -1,0 +1,24 @@
+{
+  "name": "uploadz",
+  "version": "1.0.0",
+  "description": "itmd543 hw2 upload files ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kpatel114/Upload.git"
+  },
+  "author": "Karan Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kpatel114/Upload/issues"
+  },
+  "homepage": "https://github.com/Kpatel114/Upload#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
